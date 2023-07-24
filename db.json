@@ -1,0 +1,91 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Call of Duty: World War II",
+      "dateReleased": "November 3, 2017",
+      "consoleSupported": [
+        "PlayStation 4",
+        "Xbox One",
+        "PC"
+      ],
+      "image": "https://i.pinimg.com/originals/04/c2/79/04c279b9557116d8e2d1e7db09cecbc3.png"
+    },
+    {
+      "id": 2,
+      "name": "Call of Duty: Black Ops",
+      "dateReleased": "November 9, 2010",
+      "consoleSupported": [
+        "PlayStation 3",
+        "Xbox 360",
+        "PC"
+      ],
+      "image": "https://cdn.europosters.eu/image/750/posters/call-of-duty-black-ops-cover-i8700.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Call of Duty: Black Ops II",
+      "dateReleased": "November 13, 2012",
+      "consoleSupported": [
+        "PlayStation 3",
+        "Xbox 360",
+        "PC"
+      ],
+      "image": "https://i.ebayimg.com/images/g/e-YAAOSwbK9kPvbq/s-l1600.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Call of Duty: Black Ops III",
+      "dateReleased": "November 6, 2015",
+      "consoleSupported": [
+        "PlayStation 4",
+        "Xbox One",
+        "PC"
+      ],
+      "image": "https://data.xxlgamer.com/products/3393/bHIlAZgcjOItIQ-medium.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Call of Duty: Black Ops IIII",
+      "dateReleased": "October 12, 2018",
+      "consoleSupported": [
+        "PlayStation 4",
+        "Xbox One",
+        "PC"
+      ],
+      "image": "https://interfaceingame.com/wp-content/uploads/call-of-duty-black-ops-4/call-of-duty-black-ops-4-cover-375x500.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Call of Duty Black Ops: Cold War",
+      "dateReleased": "November 13, 2020",
+      "consoleSupported": [
+        "PlayStation 5",
+        "PlayStation 4",
+        "Xbox Series X|S",
+        "Xbox One",
+        "PC"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/40/Black_Ops_Cold_War.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Call of Duty: Vanguard",
+      "dateReleased": "November 5, 2021",
+      "consoleSupported": [
+        "PlayStation 5",
+        "PlayStation 4",
+        "Xbox Series X|S",
+        "Xbox One",
+        "PC"
+      ],
+      "image": "https://images.igdb.com/igdb/image/upload/t_1080p/co3kq8.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Call of Duty: Modern Warefare ",
+      "dateReleased": "September 17, 2022",
+      "image": "https://m.media-amazon.com/images/I/81mUtFXhFCL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    }
+  ]
+}
